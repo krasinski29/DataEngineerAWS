@@ -1,0 +1,27 @@
+# Ignore .env file
+.env
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore .venv directory
+.venv/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore .pytest_cache directory
+.pytest_cache/
+
+#ignore .cfg file
+.cfg
