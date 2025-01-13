@@ -25,7 +25,6 @@ glue_access = {
                 "glue:*",
                 "s3:GetBucketLocation",
                 "s3:ListBucket",
-                "s3:ListAllMyBuckets",
                 "s3:GetBucketAcl",
                 "ec2:DescribeVpcEndpoints",
                 "ec2:DescribeRouteTables",
