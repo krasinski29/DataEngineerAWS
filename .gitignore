@@ -174,4 +174,4 @@ __pypackages__/
 cython_debug/
 
 # Alternatively, ignore all contents of data-eng-env
-data-eng-env/
+data-eng-env/data-eng-env/
